@@ -9,7 +9,7 @@
      },
      "keywords": [],
      "author": "",
-     "license": "ISC",
+     "license": "MIT",
      "dependencies": {
           "@sendgrid/mail": "^7.1.1",
           "bcryptjs": "^2.4.3",
