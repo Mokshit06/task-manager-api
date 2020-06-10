@@ -2,10 +2,8 @@
 
 A **Node.js** CRUD API with a **MongoDB** Database. You can check the API [here](https://tasks-management-api.herokuapp.com/)
 
-<!-- It has features like user authentication, creation of JWT tokens, uploading user avatar, creating tasks and sending emails. -->
-
 - Users can create their account
-- They can generate JWT tokens
+- Can generate JWT tokens
 - Users can upload their avatars
 - Users can add tasks to their account
 
@@ -18,7 +16,7 @@ A **Node.js** CRUD API with a **MongoDB** Database. You can check the API [here]
 ## How to use?
 
 - Clone the repository.
-- Navigate to the repository and run npm `npm install`.
+- Navigate to the repository and run `npm install`.
 - Add your **SendGrid API keys**, **Database route** and **JWT Secret** to the `config/dev.env` file.
 - Type `npm run dev` to start the dev server.
 
